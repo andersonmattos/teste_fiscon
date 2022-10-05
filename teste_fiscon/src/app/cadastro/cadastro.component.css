@@ -1,0 +1,23 @@
+.title{    
+    width: 100%;
+    padding-top: 2%;
+    text-align: center;
+}
+
+table {
+width: 100%;
+}
+  
+.mat-form-field {
+font-size: 14px;
+width: 100%;
+}
+
+td, th {
+width: 25%;
+}
+
+.teste{
+    width: 94%;
+    margin-left: 3%;
+}
